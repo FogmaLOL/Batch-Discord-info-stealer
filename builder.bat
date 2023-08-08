@@ -3,6 +3,7 @@ title https://github.com/FogmaLOL/Batch-grabber
 setlocal enabledelayedexpansion
 
 echo ------------------------------ FogmaLol's Builder ------------------------------
+Color A
 echo.
 echo Available options:
 echo [1] Anti-VM
